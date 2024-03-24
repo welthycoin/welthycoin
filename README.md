@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[![website](https://sites.google.com/view/welthy-coin/home))
+[![website](./img/globe-light.svg)]((https://sites.google.com/view/welthy-coin/home))
+
 
 [![linkedin](./img/linkedin-light.svg)](YOUR_LINKEDIN_LINK#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](YOUR_LINKEDIN_LINK#gh-dark-mode-only)
