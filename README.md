@@ -9,10 +9,10 @@
 - 💬 Ask me about [TOPIC_YOU_ARE_KNOWLEDGEABLE_ABOUT]
 - 📫 How to reach me: [welthycoin@gmail.com]
 - 😄 Pronouns: [kumar]
-
+https://sites.google.com/view/welthy-coin/home
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]((https://sites.google.com/view/welthy-coin/home))
+[![website](./img/globe-light.svg)](())
 
 
 [![linkedin](./img/linkedin-light.svg)](YOUR_LINKEDIN_LINK#gh-light-mode-only)
